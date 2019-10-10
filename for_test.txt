@@ -1,0 +1,2 @@
+ i am a beginner of python
+so its little bit hard to learn the python concepts
